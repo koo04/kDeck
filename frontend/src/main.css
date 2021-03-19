@@ -34,6 +34,7 @@ div.cut-corner {
 
 div.cut-corner-inner {
   position: relative;
+  cursor: pointer;
   width: 95%;
   height: 95%;
   /* margin: 0.5rem; */
